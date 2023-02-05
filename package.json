@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebaguimad/Ejercicio-Pr-ctico---Servidor-web-en-Node.git"
+    "url": "git+https://github.com/sebaguimad/ejercicio-practico-1-node.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sebaguimad/Ejercicio-Pr-ctico---Servidor-web-en-Node/issues"
+    "url": "https://github.com/sebaguimad/ejercicio-practico-1-node.git/issues"
   },
-  "homepage": "https://github.com/sebaguimad/Ejercicio-Pr-ctico---Servidor-web-en-Node#readme",
+  "homepage": "https://github.com/sebaguimad/ejercicio-practico-1-node.git#readme",
   "dependencies": {
     "express": "^4.18.2",
     "moment": "^2.29.4",
